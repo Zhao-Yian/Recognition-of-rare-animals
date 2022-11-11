@@ -1,0 +1,5 @@
+gallery/wave.jpg	大宝sod
+gallery/xiaodu2.jpg	小度充电宝
+gallery/xiaodu1.jpg	火山泥洗面奶
+gallery/anmuxi.jpg	安慕希
+gallery/wangzai.jpg	旺仔
